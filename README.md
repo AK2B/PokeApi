@@ -8,4 +8,4 @@
 
 **Pokedex**
 
-> https://ak2b.github.io/pokeApi/
+> Visualiser le site : https://ak2b.github.io/pokeApi/
