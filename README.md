@@ -54,7 +54,7 @@ Activité-type 1
     caractéristiques récupérées en Ajax grâce à l’API HTTP
     https://pokeapi.co/api/v2/pokemon/{id}/.
 
-  **Les caractéristiques du monstre comprendront au minimum :**
+**Les caractéristiques du monstre comprendront au minimum :**
 
 - Son ID
 - Son nom
@@ -83,16 +83,16 @@ Activité-type 1
 - Auto-documentation du code.
 - Respect des normes, règles et conventions de programmation frontend.
 
-  **La réalisation pourra éventuellement respecter les contraintes optionnelles suivantes :**
+**La réalisation pourra éventuellement respecter les contraintes optionnelles suivantes :**
 
 - Utilisation du framework graphique Bootstrap.
 - Utilisation du framework jQuery pour la manipulation du DOM.
 
-  ## Livrable
+## Livrable
 
-  > Le livrable sera constitué d’un document comprenant la maquette et d’un fichier zip comprenant l’arborescence du frontend de l’application. Aucune documentation technique additionnelle n’est demandée.
+> Le livrable sera constitué d’un document comprenant la maquette et d’un fichier zip comprenant l’arborescence du frontend de l’application. Aucune documentation technique additionnelle n’est demandée.
 
-  ## Date de livraison
+## Date de livraison
 
-  > Le livrable sera mis au plus tard le 28 février sur le dépôt Métis dans la mission « ECF ».
-  > Connaissance du contexte « métier » Aucune connaissance spécifique sur les Pokémons est bien sûr nécessaire pour ce projet.
+> Le livrable sera mis au plus tard le 28 février sur le dépôt Métis dans la mission « ECF ».
+> Connaissance du contexte « métier » Aucune connaissance spécifique sur les Pokémons est bien sûr nécessaire pour ce projet.
