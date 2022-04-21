@@ -24,7 +24,7 @@ Activité-type 1
 
 ## Charte graphique
 
-_La charte graphique devra respecter les contraintes suivantes :_
+**La charte graphique devra respecter les contraintes suivantes :**
 
 - Une palette couleur harmonieuse limitée à 4 couleurs (hors blanc, noir et gris) issue des préconisations « Material Design » (https://material.io/resources/color/)
 - Un bandeau supérieur incluant, de gauche à droite :
@@ -37,7 +37,7 @@ _La charte graphique devra respecter les contraintes suivantes :_
 
 ## Spécifications fonctionnelles
 
-_Le site comportera 3 pages web selon le schéma synoptique fourni en annexe :_
+**Le site comportera 3 pages web selon le schéma synoptique fourni en annexe :**
 
 - Une page d’accueil avec le message de bienvenue de votre choix incluant la date
   du jour et un bouton pour accéder à la liste des monstres Pokémon.
@@ -54,7 +54,7 @@ _Le site comportera 3 pages web selon le schéma synoptique fourni en annexe :_
     caractéristiques récupérées en Ajax grâce à l’API HTTP
     https://pokeapi.co/api/v2/pokemon/{id}/.
 
-  _Les caractéristiques du monstre comprendront au minimum :_
+  **Les caractéristiques du monstre comprendront au minimum :**
 
 - Son ID
 - Son nom
@@ -66,8 +66,9 @@ _Le site comportera 3 pages web selon le schéma synoptique fourni en annexe :_
 - Les points d’effort (EV) de sa première statistique
 - La valeur de base (base stat) de sa première statistique.
 
-  _Contraintes techniques_
-  La réalisation devra impérativement respecter les contraintes suivantes :
+  **Contraintes techniques**
+
+  > La réalisation devra impérativement respecter les contraintes suivantes :
 
 - Réalisation d’une maquette « wireframe » orientée « mobile first » avec les liens de navigation
 - Utilisation d’une grille « responsive » pour l’affiche de la liste des monstres avec comportement suivant :
@@ -82,14 +83,16 @@ _Le site comportera 3 pages web selon le schéma synoptique fourni en annexe :_
 - Auto-documentation du code.
 - Respect des normes, règles et conventions de programmation frontend.
 
-  _La réalisation pourra éventuellement respecter les contraintes optionnelles suivantes :_
+  **La réalisation pourra éventuellement respecter les contraintes optionnelles suivantes :**
 
 - Utilisation du framework graphique Bootstrap.
 - Utilisation du framework jQuery pour la manipulation du DOM.
 
-  _Livrable_
-  Le livrable sera constitué d’un document comprenant la maquette et d’un fichier zip comprenant l’arborescence du frontend de l’application. Aucune documentation technique additionnelle n’est demandée.
+  **Livrable**
 
-  _Date de livraison_
-  Le livrable sera mis au plus tard le 28 février sur le dépôt Métis dans la mission « ECF ».
-  Connaissance du contexte « métier » Aucune connaissance spécifique sur les Pokémons est bien sûr nécessaire pour ce projet.
+  > Le livrable sera constitué d’un document comprenant la maquette et d’un fichier zip comprenant l’arborescence du frontend de l’application. Aucune documentation technique additionnelle n’est demandée.
+
+  **Date de livraison**
+
+  > Le livrable sera mis au plus tard le 28 février sur le dépôt Métis dans la mission « ECF ».
+  > Connaissance du contexte « métier » Aucune connaissance spécifique sur les Pokémons est bien sûr nécessaire pour ce projet.
