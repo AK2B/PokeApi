@@ -66,9 +66,9 @@ Activité-type 1
 - Les points d’effort (EV) de sa première statistique
 - La valeur de base (base stat) de sa première statistique.
 
-  **Contraintes techniques**
+## Contraintes techniques
 
-  > La réalisation devra impérativement respecter les contraintes suivantes :
+> La réalisation devra impérativement respecter les contraintes suivantes :
 
 - Réalisation d’une maquette « wireframe » orientée « mobile first » avec les liens de navigation
 - Utilisation d’une grille « responsive » pour l’affiche de la liste des monstres avec comportement suivant :
@@ -88,11 +88,11 @@ Activité-type 1
 - Utilisation du framework graphique Bootstrap.
 - Utilisation du framework jQuery pour la manipulation du DOM.
 
-  **Livrable**
+  ## Livrable
 
   > Le livrable sera constitué d’un document comprenant la maquette et d’un fichier zip comprenant l’arborescence du frontend de l’application. Aucune documentation technique additionnelle n’est demandée.
 
-  **Date de livraison**
+  ## Date de livraison
 
   > Le livrable sera mis au plus tard le 28 février sur le dépôt Métis dans la mission « ECF ».
   > Connaissance du contexte « métier » Aucune connaissance spécifique sur les Pokémons est bien sûr nécessaire pour ce projet.
